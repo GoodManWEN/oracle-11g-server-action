@@ -1,6 +1,6 @@
 # oracle-11g-server-action
 
-[![Build](https://github.com/GoodManWENNumber2/oracle-11g-server-action/workflows/Build/badge.svg)](https://github.com/GoodManWENNumber2/oracle-11g-server-action/actions?query=workflow:Build)
+[![Build](https://github.com/GoodManWEN/oracle-11g-server-action/workflows/Build/badge.svg)](https://github.com/GoodManWEN/oracle-11g-server-action/actions?query=workflow:Build)
 
 This [GitHub Action](https://github.com/features/actions) sets up a Oracle database server in Docker container.
 
@@ -67,4 +67,4 @@ jobs:
 
 ## Licence
 
-This project is released under the [MIT License](https://github.com/GoodManWENNumber2/oracle-11g-server-action/blob/main/LICENSE).
+This project is released under the [MIT License](https://github.com/GoodManWEN/oracle-11g-server-action/blob/main/LICENSE).
