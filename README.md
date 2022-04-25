@@ -16,7 +16,7 @@ Basic usage
 ```
 steps:
   - name Setup Oracledb 11gR2 server
-    uses: GoodManWENNumber2/oracle-11g-server-action@v1.0
+    uses: GoodManWEN/oracle-11g-server-action@v1.0
     with:
       host port: 1521          # Which means the reflect port on your action host machine.
       oracle version: '1.0.0'  # Means not version of oracle , but the version of dockerhub image.
@@ -59,7 +59,7 @@ jobs:
       
       # Server side
       - name Setup Oracledb 11gR2 server
-        uses: GoodManWENNumber2/oracle-11g-server-action@v1.0
+        uses: GoodManWEN/oracle-11g-server-action@v1.0
         with:
           host port: 1521          
           oracle version: '1.0.0'
